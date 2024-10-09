@@ -18,12 +18,8 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
+temp_auto_push.bat
 # misc
 /.angular/cache
 /.sass-cache
@@ -44,4 +40,5 @@ Thumbs.db
 *.patch
 
 # Some candidates use npm instead of yarn, generating a huge diff.
-package-lock.json
+package-lock.json.gitignore
+branch_structure.json
