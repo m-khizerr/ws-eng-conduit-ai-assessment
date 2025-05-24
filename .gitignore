@@ -18,11 +18,7 @@
 *.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+temp_auto_push.bat
 
 # misc
 /.angular/cache
@@ -43,3 +39,5 @@ Thumbs.db
 *.zip
 *.patch
 .aider*
+.gitignore
+branch_structure.json
